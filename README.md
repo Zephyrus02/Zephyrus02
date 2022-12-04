@@ -1,7 +1,10 @@
+![Background](https://user-images.githubusercontent.com/78857959/205477105-2746dca0-518b-4ab0-b98f-99077d6a8550.png)
 - 👋 Hi, I’m @Zephyrus02
+- 😄 Pronouns: He/Him
 - 👀 I’m interested in Web Dev, Robotics, AI & ML, Gaming, Music
 - 🌱 I’m currently a sophomore at Vellore Institute of Technology, Chennai
-- 💞️ I’m looking to collaborate on Web Dev projects
+- 🔭 I’m currently working on Google Clould Career Practitioner Certifications
+- 👯 I’m looking to collaborate on Web Dev projects to showcase and enhance my skills
 - 📫 All of my links are here :-linktr.ee/Zephyrus02
 
 <!---
