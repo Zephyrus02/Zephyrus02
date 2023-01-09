@@ -1,4 +1,4 @@
-![MasterHead](https://pbs.twimg.com/profile_banners/1591167438422302720/1668359857/1080x360)
+[![MasterHead](https://pbs.twimg.com/profile_banners/1591167438422302720/1668359857/1080x360)]
 
 # 💫 About Me:
 🔭 I’m currently working on Improved Disaster Response With Real-Time Location Monitoring<br><br>🌱 I’m currently learning Node.js, MongoDB, React.js<br><br>👨‍💻 All of my projects are available at zephyrus02.github.io/My-Site/<br><br>💬 Ask me about DSA, Python, Google Cloud, Web Dev, Open Source<br><br>📫 How to reach me aneeshraskar@gmail.com
@@ -22,5 +22,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Zephyrus02&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
