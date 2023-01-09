@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aneesh Raskar</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" alt="DisplayBanner" width="400" src="C:\Users\Aneesh Raskar\OneDrive\Pictures\Camera Roll\Background.png">
+<img align="right" alt="DisplayBanner" width="400" src="https://media.licdn.com/dms/image/C5616AQEggesHh6FWaA/profile-displaybackgroundimage-shrink_350_1400/0/1668359824500?e=1678924800&v=beta&t=15Llmbqbj4J64lDk_3J-pvz0PwX04KCKPTO4bk2MIQ4">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zephyrus02&label=Profile%20views&color=0e75b6&style=flat" alt="zephyrus02" /> </p>
 
