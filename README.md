@@ -1,7 +1,7 @@
 ![MasterHead](https://pbs.twimg.com/profile_banners/1591167438422302720/1668359857/1080x360)
 
 # 💫 About Me:
-Hello Everyone, I am Aneesh Raskar from Pune, India.<br>I am currently a 3rd year undergrad student.<br>I have persuing B.Tech in Computer Science with specialization in Artificial Intelligence and Machine Learning from Vellore Institute of Technology, Chennai.<br><br>Apart from coding, some other activities that I love to do!<br><br> Gaming🎮<br> Playing Guitar🎸<br> Travelling and Riding🧳
+Hello Everyone, I am Aneesh Raskar from Pune, India.<br>I am currently a 3rd year undergrad student.<br>I am persuing B.Tech in Computer Science with specialization in Artificial Intelligence and Machine Learning from Vellore Institute of Technology, Chennai.<br><br>Apart from coding, some other activities that I love to do!<br><br> Gaming🎮<br> Playing Guitar🎸<br> Travelling and Riding🧳
 
 
 ## 🌐 Socials:
