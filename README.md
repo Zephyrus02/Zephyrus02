@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello Everyone, I am Aneesh Raskar from Pune, India.<br>I have completed my B.Tech in Computer Science with specialization in Artificial Intelligence and Machine Learning from Vellore Institute of Technology, Chennai.<br>Currently working as Full Stack Developer Intern @ Moneyy.ai<br><br>Apart from coding, some other activities that I love to do!<br>Gaming🎮<br>Playing Guitar🎸<br>Travelling and Riding🧳
+Hello Everyone, I am Aneesh Raskar from Pune, India.<br>I have completed my B.Tech in Computer Science with specialization in Artificial Intelligence and Machine Learning from Vellore Institute of Technology, Chennai.<br>Currently working as Software Engineer @ Samsan Labs<br><br>Apart from coding, some other activities that I love to do!<br>Gaming🎮<br>Playing Guitar🎸<br>Travelling and Riding🧳
 
 
 ## 🌐 Socials:
